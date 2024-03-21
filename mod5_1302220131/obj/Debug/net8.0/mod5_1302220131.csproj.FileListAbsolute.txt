@@ -1,0 +1,5 @@
+D:\mod5_1302220131\mod5_1302220131\obj\Debug\net8.0\mod5_1302220131.GeneratedMSBuildEditorConfig.editorconfig
+D:\mod5_1302220131\mod5_1302220131\obj\Debug\net8.0\mod5_1302220131.AssemblyInfoInputs.cache
+D:\mod5_1302220131\mod5_1302220131\obj\Debug\net8.0\mod5_1302220131.AssemblyInfo.cs
+D:\mod5_1302220131\mod5_1302220131\obj\Debug\net8.0\mod5_1302220131.csproj.CoreCompileInputs.cache
+D:\mod5_1302220131\mod5_1302220131\obj\Debug\net8.0\mod5_1302220131.sourcelink.json
